@@ -1,0 +1,20 @@
+{
+  "files": [
+    {
+      "path": "packages/utils/dist/index.js",
+      "maxSize": "6kB"
+    },
+    {
+      "path": "packages/utils/dist/index.mjs",
+      "maxSize": "5kB"
+    },
+    {
+      "path": "packages/types/dist/index.mjs",
+      "maxSize": "5kB"
+    },
+    {
+      "path": "packages/types/dist/index.js",
+      "maxSize": "5kB"
+    }
+  ]
+}
