@@ -2627,8 +2627,8 @@ __metadata:
   dependencies:
     "@solidjs/testing-library": "npm:0.8.4"
     "@techmely/types": "npm:1.5.2"
-    "@techmely/utils": "npm:1.9.4"
-    mutative: "npm:0.6.0"
+    "@techmely/utils": "npm:1.9.5"
+    mutative: "npm:1.0.2"
     solid-js: "npm:^1.8.5"
     ts-essentials: "npm:9.4.1"
     tsup: "npm:7.2.0"
@@ -2675,7 +2675,7 @@ __metadata:
   resolution: "@techmely/normalization@workspace:packages/normalization"
   dependencies:
     "@techmely/types": "workspace:*"
-    mutative: "npm:0.6.0"
+    mutative: "npm:1.0.2"
     unbuild: "npm:2.0.0"
   languageName: unknown
   linkType: soft
@@ -2729,7 +2729,7 @@ __metadata:
   languageName: unknown
   linkType: soft
 
-"@techmely/utils@npm:1.9.4, @techmely/utils@npm:^1.9.1, @techmely/utils@workspace:packages/utils":
+"@techmely/utils@npm:1.9.5, @techmely/utils@npm:^1.9.1, @techmely/utils@workspace:packages/utils":
   version: 0.0.0-use.local
   resolution: "@techmely/utils@workspace:packages/utils"
   dependencies:
@@ -8909,10 +8909,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"mutative@npm:0.6.0":
-  version: 0.6.0
-  resolution: "mutative@npm:0.6.0"
-  checksum: 3a7b81d2039237592e7bbbe452724fac3c1ffd0f0f1dc108dec74b656f868012ae53e587776319af56418535468958b6fd9c75189d74902b804e39b493857084
+"mutative@npm:1.0.2":
+  version: 1.0.2
+  resolution: "mutative@npm:1.0.2"
+  checksum: e98cf4b412c9b19858e7fa2bbe210cf8c729a043dc0245e474d27ca32d9467d3bd01e123f97f8218d516d9c7096af24c36a84caefb457b07d78ff80b7da05cb0
   languageName: node
   linkType: hard
 
