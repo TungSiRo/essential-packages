@@ -28,7 +28,7 @@
   },
   "dependencies": {
     "@techmely/utils": "1.9.5",
-    "mutative": "0.6.0"
+    "mutative": "1.0.3"
   },
   "peerDependencies": {
     "solid-js": "^1.8.4"
